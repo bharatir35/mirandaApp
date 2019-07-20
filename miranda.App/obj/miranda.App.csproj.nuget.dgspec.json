@@ -1,0 +1,111 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/rajkumar/projects/ganymedeProj/frontend/frontEndProj/mirandaApp/miranda.App/miranda.App.csproj": {}
+  },
+  "projects": {
+    "/home/rajkumar/projects/ganymedeProj/frontend/frontEndProj/mirandaApp/miranda.App/miranda.App.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/rajkumar/projects/ganymedeProj/frontend/frontEndProj/mirandaApp/miranda.App/miranda.App.csproj",
+        "projectName": "miranda.App",
+        "projectPath": "/home/rajkumar/projects/ganymedeProj/frontend/frontEndProj/mirandaApp/miranda.App/miranda.App.csproj",
+        "packagesPath": "/home/rajkumar/.nuget/packages/",
+        "outputPath": "/home/rajkumar/projects/ganymedeProj/frontend/frontEndProj/mirandaApp/miranda.App/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/home/rajkumar/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "/home/rajkumar/projects/ganymedeProj/frontend/frontEndProj/mirandaApp/miranda.runTimeUtils/miranda.runTimeUtils.csproj": {
+                "projectPath": "/home/rajkumar/projects/ganymedeProj/frontend/frontEndProj/mirandaApp/miranda.runTimeUtils/miranda.runTimeUtils.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "/home/rajkumar/projects/ganymedeProj/frontend/frontEndProj/mirandaApp/miranda.runTimeUtils/miranda.runTimeUtils.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/rajkumar/projects/ganymedeProj/frontend/frontEndProj/mirandaApp/miranda.runTimeUtils/miranda.runTimeUtils.csproj",
+        "projectName": "miranda.runTimeUtils",
+        "projectPath": "/home/rajkumar/projects/ganymedeProj/frontend/frontEndProj/mirandaApp/miranda.runTimeUtils/miranda.runTimeUtils.csproj",
+        "packagesPath": "/home/rajkumar/.nuget/packages/",
+        "outputPath": "/home/rajkumar/projects/ganymedeProj/frontend/frontEndProj/mirandaApp/miranda.runTimeUtils/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/home/rajkumar/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

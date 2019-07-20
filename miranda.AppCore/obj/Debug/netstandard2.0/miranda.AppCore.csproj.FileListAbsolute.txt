@@ -1,0 +1,9 @@
+/home/rajkumar/projects/ganymedeProj/frontend/frontEndProj/mirandaApp/miranda.AppCore/bin/Debug/netstandard2.0/miranda.AppCore.deps.json
+/home/rajkumar/projects/ganymedeProj/frontend/frontEndProj/mirandaApp/miranda.AppCore/bin/Debug/netstandard2.0/miranda.AppCore.dll
+/home/rajkumar/projects/ganymedeProj/frontend/frontEndProj/mirandaApp/miranda.AppCore/bin/Debug/netstandard2.0/miranda.AppCore.pdb
+/home/rajkumar/projects/ganymedeProj/frontend/frontEndProj/mirandaApp/miranda.AppCore/obj/Debug/netstandard2.0/miranda.AppCore.csprojAssemblyReference.cache
+/home/rajkumar/projects/ganymedeProj/frontend/frontEndProj/mirandaApp/miranda.AppCore/obj/Debug/netstandard2.0/miranda.AppCore.csproj.CoreCompileInputs.cache
+/home/rajkumar/projects/ganymedeProj/frontend/frontEndProj/mirandaApp/miranda.AppCore/obj/Debug/netstandard2.0/miranda.AppCore.AssemblyInfoInputs.cache
+/home/rajkumar/projects/ganymedeProj/frontend/frontEndProj/mirandaApp/miranda.AppCore/obj/Debug/netstandard2.0/miranda.AppCore.AssemblyInfo.cs
+/home/rajkumar/projects/ganymedeProj/frontend/frontEndProj/mirandaApp/miranda.AppCore/obj/Debug/netstandard2.0/miranda.AppCore.dll
+/home/rajkumar/projects/ganymedeProj/frontend/frontEndProj/mirandaApp/miranda.AppCore/obj/Debug/netstandard2.0/miranda.AppCore.pdb

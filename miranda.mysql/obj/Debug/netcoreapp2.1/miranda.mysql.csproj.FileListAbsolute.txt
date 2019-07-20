@@ -1,0 +1,9 @@
+/home/rajkumar/projects/ganymedeProj/frontend/frontEndProj/mirandaApp/miranda.mysql/bin/Debug/netcoreapp2.1/miranda.mysql.deps.json
+/home/rajkumar/projects/ganymedeProj/frontend/frontEndProj/mirandaApp/miranda.mysql/bin/Debug/netcoreapp2.1/miranda.mysql.dll
+/home/rajkumar/projects/ganymedeProj/frontend/frontEndProj/mirandaApp/miranda.mysql/bin/Debug/netcoreapp2.1/miranda.mysql.pdb
+/home/rajkumar/projects/ganymedeProj/frontend/frontEndProj/mirandaApp/miranda.mysql/obj/Debug/netcoreapp2.1/miranda.mysql.csprojAssemblyReference.cache
+/home/rajkumar/projects/ganymedeProj/frontend/frontEndProj/mirandaApp/miranda.mysql/obj/Debug/netcoreapp2.1/miranda.mysql.csproj.CoreCompileInputs.cache
+/home/rajkumar/projects/ganymedeProj/frontend/frontEndProj/mirandaApp/miranda.mysql/obj/Debug/netcoreapp2.1/miranda.mysql.AssemblyInfoInputs.cache
+/home/rajkumar/projects/ganymedeProj/frontend/frontEndProj/mirandaApp/miranda.mysql/obj/Debug/netcoreapp2.1/miranda.mysql.AssemblyInfo.cs
+/home/rajkumar/projects/ganymedeProj/frontend/frontEndProj/mirandaApp/miranda.mysql/obj/Debug/netcoreapp2.1/miranda.mysql.dll
+/home/rajkumar/projects/ganymedeProj/frontend/frontEndProj/mirandaApp/miranda.mysql/obj/Debug/netcoreapp2.1/miranda.mysql.pdb
