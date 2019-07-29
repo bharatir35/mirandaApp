@@ -7,7 +7,14 @@ namespace miranda.WebCore
 {
     public class CustRqHandler
     {
-        private readonly HttpRequest _next;
-        
+        private readonly RequestDelegate _next;
+        public CustRqHandler(RequestDelegate next)
+        {
+                _next=next;
+        }
+        public async Task InvokeAsync(HttpContext context)
+        {
+            
+        }
     }
 }
