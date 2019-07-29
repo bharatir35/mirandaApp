@@ -3,12 +3,12 @@
 /home/rajkumar/projects/ganymedeProj/frontend/frontEndProj/mirandaApp/miranda.App/bin/Debug/netcoreapp2.1/miranda.App.runtimeconfig.dev.json
 /home/rajkumar/projects/ganymedeProj/frontend/frontEndProj/mirandaApp/miranda.App/bin/Debug/netcoreapp2.1/miranda.App.dll
 /home/rajkumar/projects/ganymedeProj/frontend/frontEndProj/mirandaApp/miranda.App/bin/Debug/netcoreapp2.1/miranda.App.pdb
+/home/rajkumar/projects/ganymedeProj/frontend/frontEndProj/mirandaApp/miranda.App/bin/Debug/netcoreapp2.1/miranda.runTimeUtils.dll
+/home/rajkumar/projects/ganymedeProj/frontend/frontEndProj/mirandaApp/miranda.App/bin/Debug/netcoreapp2.1/miranda.runTimeUtils.pdb
 /home/rajkumar/projects/ganymedeProj/frontend/frontEndProj/mirandaApp/miranda.App/obj/Debug/netcoreapp2.1/miranda.App.csprojAssemblyReference.cache
 /home/rajkumar/projects/ganymedeProj/frontend/frontEndProj/mirandaApp/miranda.App/obj/Debug/netcoreapp2.1/miranda.App.csproj.CoreCompileInputs.cache
 /home/rajkumar/projects/ganymedeProj/frontend/frontEndProj/mirandaApp/miranda.App/obj/Debug/netcoreapp2.1/miranda.App.AssemblyInfoInputs.cache
 /home/rajkumar/projects/ganymedeProj/frontend/frontEndProj/mirandaApp/miranda.App/obj/Debug/netcoreapp2.1/miranda.App.AssemblyInfo.cs
+/home/rajkumar/projects/ganymedeProj/frontend/frontEndProj/mirandaApp/miranda.App/obj/Debug/netcoreapp2.1/miranda.App.csproj.CopyComplete
 /home/rajkumar/projects/ganymedeProj/frontend/frontEndProj/mirandaApp/miranda.App/obj/Debug/netcoreapp2.1/miranda.App.dll
 /home/rajkumar/projects/ganymedeProj/frontend/frontEndProj/mirandaApp/miranda.App/obj/Debug/netcoreapp2.1/miranda.App.pdb
-/home/rajkumar/projects/ganymedeProj/frontend/frontEndProj/mirandaApp/miranda.App/bin/Debug/netcoreapp2.1/miranda.runTimeUtils.dll
-/home/rajkumar/projects/ganymedeProj/frontend/frontEndProj/mirandaApp/miranda.App/bin/Debug/netcoreapp2.1/miranda.runTimeUtils.pdb
-/home/rajkumar/projects/ganymedeProj/frontend/frontEndProj/mirandaApp/miranda.App/obj/Debug/netcoreapp2.1/miranda.App.csproj.CopyComplete

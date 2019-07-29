@@ -14,7 +14,15 @@ namespace miranda.WebCore
         }
         public async Task InvokeAsync(HttpContext context)
         {
-            
+           if(context.Request.Method.ToUpper()=="GET")
+           {
+               
+           }
+           else
+           {
+
+           }
+           await _next(context);
         }
     }
 }
