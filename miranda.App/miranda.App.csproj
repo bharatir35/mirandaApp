@@ -3,7 +3,7 @@
     <ProjectReference Include="..\miranda.runTimeUtils\miranda.runTimeUtils.csproj"/>
   </ItemGroup>
   <ItemGroup>
-    <PackageReference Include="Microsoft.AspNetCore.Http" Version="2.1.1"/>
+    <PackageReference Include="Microsoft.AspNetCore.Http" Version="2.1.22"/>
     <PackageReference Include="Microsoft.AspNetCore.Hosting" Version="2.1.1"/>
     <PackageReference Include="Microsoft.AspNetCore.App" Version="2.1.1"/>
   </ItemGroup>
